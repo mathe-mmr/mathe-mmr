@@ -24,10 +24,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
+  <img src="https://raw.githubusercontent.com/rust-lang/rust-artwork/refs/heads/main/logo/rusty/rust-logo-512x512.png" height="40" alt="rust logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="40"/>
+  <img width="12"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/KiCad_logo_square.svg" height="40" alt="kicad logo, sourced from wikipedia commons" />
 
 </div>
